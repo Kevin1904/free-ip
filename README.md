@@ -8,4 +8,6 @@ bash
 resolveip
 nmap
 
-execute ./free_ip.sh to get a list of free ip address _at that exact moment_ in file free_ip. The command also checks for a DNS record and outputs it accordingly.
+execute ./free_ip.sh to get a list of free ip address _at that exact moment_ output into file "free_ip". The command also checks for a DNS record and outputs a random free IP address from your selected networks.
+
+execute ./get_ip.sh _IP ADDRESS_ to check a specific IP address.
