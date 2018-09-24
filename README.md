@@ -1,7 +1,7 @@
 # free-ip
 checks an IP address for network availability and DNS PTR record
 
-Please edit the file networks to add a list of networks and hosts.
+Please edit the file _networks_ to add a list of networks and hosts.
 
 Requirements:
 bash
